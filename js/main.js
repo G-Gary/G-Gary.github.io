@@ -86,7 +86,7 @@ $(document).ready(function(){
 		//概率
 		
 			angles = 2160 * rotNum + 1845;
-			notice = info[7] + info1[7];
+			notice = info[7] + info1[7] ;
 		
 	}
 
